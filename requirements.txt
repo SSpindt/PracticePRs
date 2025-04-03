@@ -1,0 +1,8 @@
+setuptools
+Flask
+numpy
+requests
+
+pandas
+matplotlib
+seaborn
